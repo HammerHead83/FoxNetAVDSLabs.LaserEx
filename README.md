@@ -1,2 +1,6 @@
 # FoxNetAVDSLabs.LaserEx
-First commit
+
+Systems for manipulate Laser pyrographs.
+
+Supported OS:
+WINDOWS
